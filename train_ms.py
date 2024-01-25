@@ -122,6 +122,10 @@ def run(rank, n_gpus, hps):
   for epoch in range(epoch_str, hps.train.epochs + 1):
     if rank==0:
       train_and_evaluate(rank, epoch, hps, [net_g, net_d], [optim_g, optim_d], [scheduler_g, scheduler_d], scaler, [train_loader, eval_loader], logger, [writer, writer_eval])
+      utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, checkpoint_path_g)
+      utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, checkpoint_path_d)
+      print(f"Checkpoint saved at epoch {epoch}")
+
     else:
       train_and_evaluate(rank, epoch, hps, [net_g, net_d], [optim_g, optim_d], [scheduler_g, scheduler_d], scaler, [train_loader, None], None, None)
     scheduler_g.step()
