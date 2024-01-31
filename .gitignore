@@ -4,6 +4,7 @@ DUMMY3
 logs
 __pycache__
 .ipynb_checkpoints
+
 .*.swp
 
 build
@@ -14,3 +15,6 @@ configs/dracu_japanese_base2.json
 configs/tolove_japanese_base2.json
 
 .idea
+/checkpoints/D_0.pth
+/checkpoints/G_0.pth
+.DS_Store
