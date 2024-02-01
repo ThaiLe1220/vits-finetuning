@@ -72,7 +72,7 @@ with torch.no_grad():
     )
 
 # Save single speaker audio
-save_audio_as_mp3(audio, hps.data.sampling_rate, "single_speaker_synthesized_audio.mp3")
+# save_audio_as_mp3(audio, hps.data.sampling_rate, "single_speaker_synthesized_audio.mp3")
 
 # Multiple Speakers
 hps = utils.get_hparams_from_file("checkpoints/config.json")
@@ -88,7 +88,7 @@ _ = net_g.eval()
 
 _ = utils.load_checkpoint("checkpoints/G_epoch_10.pth", net_g, None)
 
-stn_tst = get_text("こんにちは", hps)
+stn_tst = get_text("My name is Barrack Obama", hps)
 with torch.no_grad():
     x_tst = stn_tst.cuda().unsqueeze(0)
     x_tst_lengths = torch.LongTensor([stn_tst.size(0)]).cuda()

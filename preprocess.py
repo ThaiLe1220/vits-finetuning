@@ -11,7 +11,7 @@ if __name__ == "__main__":
         nargs="+",
         default=["filelists/miyu_train.txt", "filelists/miyu_val.txt"],
     )
-    parser.add_argument("--text_cleaners", nargs="+", default=["japanese_cleaners"])
+    parser.add_argument("--text_cleaners", nargs="+", default=["english_cleaners"])
 
     args = parser.parse_args()
 

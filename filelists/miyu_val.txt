@@ -1,6 +1,9 @@
-wav/ba/miyu/916145.wav|10|ど、どしてこんなことに…
-wav/ba/miyu/139528.wav|10|え、援護します
-wav/ba/miyu/211336.wav|10|やっぱり私は何もできないゴミ物なんだ
-wav/ba/miyu/886881.wav|10|私はその辺の小石
-wav/ba/miyu/899245.wav|10|SRTに入らなければ良かった
-wav/ba/miyu/805836.wav|10|な、何か、遮蔽物は……？
+wav/obama1/obama1_split_part_73.wav|10| I believe if we're going to be true global partners,
+wav/obama1/obama1_split_part_203.wav|10| be realized, too.  We are all beautiful flowers from the same  garden, branches of the same majority.
+wav/obama1/obama1_split_part_169.wav|10| ways of thinking.  Prejudices and stereotypes and assumptions, those are
+wav/obama1/obama1_split_part_183.wav|10| We visited Humayun's tomb.  And while we were there, we met some of the laborers  who are the backbone of this nation's progress.
+wav/obama1/obama1_split_part_13.wav|10| It has been a great honor to be the first American  President to join you for Republic Day with the tricolor
+wav/obama1/obama1_split_part_61.wav|10| world.  America wants to be your partner as you protect the
+wav/obama1/obama1_split_part_62.wav|10| health of your people and the beauty of this land,  from the backwaters of Kerala to the banks of  Ganga.
+wav/obama1/obama1_split_part_96.wav|10| Neha, I think, did a great job of describing the  essence of what's important here.
+wav/obama1/obama1_split_part_9.wav|10| Let's give a big round of applause once again.  Distinguished guests, ladies and gentlemen
