@@ -56,7 +56,7 @@ net_g = SynthesizerTrn(
 ).cuda()
 _ = net_g.eval()
 
-_ = utils.load_checkpoint("checkpoints/G_epoch_10.pth", net_g, None)
+_ = utils.load_checkpoint("checkpoints/G_epoch_1000.pth", net_g, None)
 
 stn_tst = get_text("こんにちは", hps)
 with torch.no_grad():
@@ -86,7 +86,7 @@ net_g = SynthesizerTrn(
 ).cuda()
 _ = net_g.eval()
 
-_ = utils.load_checkpoint("checkpoints/G_epoch_10.pth", net_g, None)
+_ = utils.load_checkpoint("checkpoints/G_epoch_1000.pth", net_g, None)
 
 stn_tst = get_text("My name is Barrack Obama", hps)
 with torch.no_grad():
