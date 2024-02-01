@@ -57,7 +57,7 @@ net_g = SynthesizerTrn(
 _ = net_g.eval()
 
 _ = utils.load_checkpoint(
-    "../drive/MyDrive/vits-finetune/checkpoints/G_epoch_10.pth", net_g, None
+    "drive/MyDrive/vits-finetune/checkpoints/G_epoch_10.pth", net_g, None
 )
 
 stn_tst = get_text("こんにちは", hps)
@@ -89,7 +89,7 @@ net_g = SynthesizerTrn(
 _ = net_g.eval()
 
 _ = utils.load_checkpoint(
-    "../drive/MyDrive/vits-finetune/checkpoints/G_epoch_10.pth", net_g, None
+    "drive/MyDrive/vits-finetune/checkpoints/G_epoch_10.pth", net_g, None
 )
 
 stn_tst = get_text("My name is Barrack Obama", hps)
