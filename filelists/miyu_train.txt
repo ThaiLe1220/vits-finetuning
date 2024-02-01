@@ -1,51 +1,196 @@
-wav/ba/miyu/533522.wav|10|ブ、ブルー……アーカイブ……
-wav/ba/miyu/978431.wav|10|SRT特殊学園、ラビット小隊の霞沢ミユ、です…… あの、もう帰……っちゃ、だめですよね……
-wav/ba/miyu/589002.wav|10|お、お疲れ様です、先生……
-wav/ba/miyu/527590.wav|10|先生のお好きな時に、呼んでください……その、待つのは得意なので……
-wav/ba/miyu/145077.wav|10|あの、先生……私の名前、覚えてますか……？
-wav/ba/miyu/39192.wav|10|新しい友達を作るなんて、そんな難しい事……
-wav/ba/miyu/649415.wav|10|ラビット小隊、もっと仲良くなれたら良いのに……
-wav/ba/miyu/306949.wav|10|もっと他の隊員みたいに、存在感があれば……
-wav/ba/miyu/255333.wav|10|私なんて、どこにでもいる小石みたいなものなので……
-wav/ba/miyu/616395.wav|10|そもそもどうして私なんかが、SRTに……
-wav/ba/miyu/164427.wav|10|呼吸を整えて……目標に、集中……。距離千,150メートル、風は東北東から15ノット……温湿度による誤差を補正……
-wav/ba/miyu/955071.wav|10|あ、あの……先生、できればその、そういった悪戯はご遠慮いただけますと……えっと、照準が乱れてしまうので……
-wav/ba/miyu/537029.wav|10|……なるほど。これは邪魔ではなく、実践に近い状況下での狙撃訓練、ということですよね……SRTでも、似たような訓練をしたような気が……
-wav/ba/miyu/750669.wav|10|ひゃぅっ……！？せ、先生……！いくら何でも、耳に息を吹きかけるのは……！？
-wav/ba/miyu/412781.wav|10|あ、えっと、その……
-wav/ba/miyu/619085.wav|10|先生の指示、いいですね……怖く、無いので……
-wav/ba/miyu/827005.wav|10|先生は…私のことを見つけてくれますよね。いつも、どんな時でも…
-wav/ba/miyu/706012.wav|10|こんな私でも…先生のお役に立てるといいのですが…
-wav/ba/miyu/814441.wav|10|先生、私のことを見失わないで下さいね。
-wav/ba/miyu/946836.wav|10|せ、戦闘ですか
-wav/ba/miyu/554075.wav|10|他の子の、邪魔にならないように……
-wav/ba/miyu/714649.wav|10|わ、わたしがリーダーですか
-wav/ba/miyu/44255.wav|10|うまく、できるかも…
-wav/ba/miyu/422295.wav|10|すみません…できればでいいのですが、わたしについできてください。
-wav/ba/miyu/155037.wav|10|あ、ありがとうございます。
-wav/ba/miyu/124180.wav|10|すこし本給します。
-wav/ba/miyu/173043.wav|10|隠れました！
-wav/ba/miyu/379056.wav|10|もしかして、敵にも無視されます？
-wav/ba/miyu/472324.wav|10|ポジション、変更します。
-wav/ba/miyu/986967.wav|10|え、援護射撃お願いします。
-wav/ba/miyu/356351.wav|10|あ、これ？私の分…ですか…？
-wav/ba/miyu/930369.wav|10|みんな、ごめん。
-wav/ba/miyu/41287.wav|10|ヒット！
-wav/ba/miyu/456869.wav|10|タンゴーダウン
-wav/ba/miyu/55566.wav|10|い、移動します
-wav/ba/miyu/389580.wav|10|わたし、ここにいってもいいのでしょうか…
-wav/ba/miyu/130233.wav|10|わ、私のことはお気になされずに
-wav/ba/miyu/29571.wav|10|えっと、私たちの勝次ですか…？本当に？
-wav/ba/miyu/147691.wav|10|そんな…おかしいです。私なんかリーダーになって、勝てたなんて
-wav/ba/miyu/974397.wav|10|こうなると思っていました。私がかかわると、結局いつもこんな風に
-wav/ba/miyu/862032.wav|10|逃げたい、辛い、帰りたい…
-wav/ba/miyu/618533.wav|10|こんないいものを、わたしが頂いても…？
-wav/ba/miyu/90758.wav|10|戦術への理解が、より深まりました。
-wav/ba/miyu/861536.wav|10|せめて…SRTの名に恥じないよう、頑張ります。
-wav/ba/miyu/829111.wav|10|どうにか成長して、他のみんなの足を引っ張らないようにしないと…
-wav/ba/miyu/709504.wav|10|ラビット39式小銃、確かに受け取りました。……やはり、少し重いですね。
-wav/ba/miyu/749189.wav|10|ひぁっ…私の誕生日、ですか……？ど、どうして覚えて…そんな…。あ、ありがとうございます……本当に、嬉しいです……！
-wav/ba/miyu/536512.wav|10|せ、先生がその……本日、誕生日だと聞きまして……。野宿の立場なので、その、しっかりしたプレゼントはお渡しできないのですが……。 えっと、お祝いの言葉だけは、どうにか伝えたくて……。
-wav/ba/miyu/872843.wav|10|そういえば昔、ハロウィーンということでお化けの仮装をしたのですが。誰も、私の存在に気付いてくれませんでした……。
-wav/ba/miyu/436322.wav|10|今年は、SRTに帰れると良いですね
-wav/ba/miyu/387627.wav|10|サンタクロースさんは、悪い子にはプレゼントを渡さないとか……いえ、そもそもサンタクロースさんも、私の存在を忘れているかもしれませんね。
+wav/obama1/obama1_split_part_1.wav|10| President Obama, and President Trump  Three years ago, in our state of Wisconsin,  back in the United States, a man went into a Sikh temple  and in a terrible act of violence killed six innocent  people, Americans and Indians.
+wav/obama1/obama1_split_part_10.wav|10| And I want to thank the President, the President's  wife, the President's wife, the President's wife,  the President's wife, the President's wife,
+wav/obama1/obama1_split_part_100.wav|10| begins with a pledge to uphold the dignity of the individual,  and our Declaration of Independence proclaims that all  men are created equal.
+wav/obama1/obama1_split_part_101.wav|10| our countries.  Generations have worked to live up to these ideals.  And when he came to India, Martin Luther King, Jr.  was introduced to some schoolchildren,
+wav/obama1/obama1_split_part_102.wav|10| as a fellow untouchable.  My grandfather was a cook for the British Army in Kenya.
+wav/obama1/obama1_split_part_103.wav|10| The distant branches of Michelle's family tree  include both slaves and slave owners.
+wav/obama1/obama1_split_part_104.wav|10| When we were born, people who looked like us still  couldn't vote in some parts of the country.  Even as America has grown, we've been able to
+wav/obama1/obama1_split_part_105.wav|10| has blessed us with extraordinary opportunities.  There were moments in my life where I've been treated  differently because of the color of my skin.  In many countries, we have to be careful about our
+wav/obama1/obama1_split_part_106.wav|10| including the United States, grapple with questions of  identity and inequality and how we treat each other,  people who are different than us, how we deal with diversity
+wav/obama1/obama1_split_part_107.wav|10| of beliefs and of faiths.  Right now, in crowded neighborhoods not far from  here, a man is driving an auto rickshaw or washing  somebody else's clothes or washing somebody else's
+wav/obama1/obama1_split_part_108.wav|10| doing the hard work no one else will do, and a woman is cleaning somebody else's house,  and a young man is on a bicycle delivering lunch, a little girl is hauling a heavy bag
+wav/obama1/obama1_split_part_109.wav|10| bucket of water.  And I believe their dreams, their hopes are just as  important, just as beautiful, just as worthy as
+wav/obama1/obama1_split_part_11.wav|10| I bring the friendship and the greetings of the American people.  On behalf of myself and Michelle, thank you so much for welcoming us back to the
+wav/obama1/obama1_split_part_110.wav|10| And so even as we live in a world of terrible  inequality, we're also proud to be a part of
+wav/obama1/obama1_split_part_111.wav|10| to live in countries where even the grandson of a cook  can become President, or even a dulut can help write a  constitution, and even a tea seller can become Prime Minister.
+wav/obama1/obama1_split_part_112.wav|10| Thank you, Mr. President.
+wav/obama1/obama1_split_part_113.wav|10| The point is, is that the aim of our work must be not to just have a few do well, but
+wav/obama1/obama1_split_part_114.wav|10| But to have everybody have a chance, everybody who's  willing to work for it have the ability to dream big  and then realize it.
+wav/obama1/obama1_split_part_115.wav|10| reach those dreams.  Our nations are strongest when we uphold the equality  of all our people, and that includes our women.
+wav/obama1/obama1_split_part_116.wav|10| Now, you may have noticed I am married to a very strong
+wav/obama1/obama1_split_part_117.wav|10| talented woman.  Michelle is not afraid to speak her mind or tell me  when I'm wrong, which happens.
+wav/obama1/obama1_split_part_118.wav|10| frequently.  And we have two beautiful daughters, so I'm surrounded  by smart, strong women.  And in raising our girls, we've tried to instill in them
+wav/obama1/obama1_split_part_119.wav|10| basic values, a sense of compassion for others, and  respect for themselves, and the confidence that they can  go as far as their imaginations and abilities  will carry them.
+wav/obama1/obama1_split_part_12.wav|10| Terima kasih.
+wav/obama1/obama1_split_part_120.wav|10| And as part of Michelle's work as First Lady,  she's met with women and girls around the world,  including here in India, to let them know that America  believes in them, too.
+wav/obama1/obama1_split_part_121.wav|10| we're still working to make sure that women and girls  have all the opportunities they deserve,  and that they're treated equally.  And we have some great role models, including here today
+wav/obama1/obama1_split_part_122.wav|10| the former Speaker of our House of Representatives,  Nancy Pelosi, who was the first woman Speaker of the House  and my great partner.
+wav/obama1/obama1_split_part_123.wav|10| And here in India, it's the wives and the mothers who so often hold families and communities  together.
+wav/obama1/obama1_split_part_124.wav|10| Indian women have shown that they can succeed in every field,  including government, where many of your leaders are women.  And the young women who are here today are part of a new generation
+wav/obama1/obama1_split_part_125.wav|10| that is making your voice heard and standing up and determined to play your part in India's  progress. And here's what we know. We know from experience that nations are
+wav/obama1/obama1_split_part_126.wav|10| are more successful when their women are successful.  When girls go to school  This is
+wav/obama1/obama1_split_part_127.wav|10| This is one of the most direct measures of whether  a nation is going to develop effectively is how  it treats its women.  When a girl goes to school, she's going to be
+wav/obama1/obama1_split_part_128.wav|10| school, it doesn't just open up her young mind, it benefits all of us, because maybe  someday she'll start her own business, or invent a new technology, or cure a disease.
+wav/obama1/obama1_split_part_129.wav|10| And when women are able to work, families are healthier, and communities are wealthier,  and entire countries are more prosperous.  And when young women are educated, then their children are going to be well-educated.
+wav/obama1/obama1_split_part_130.wav|10| and have more opportunity.  So if nations really want to succeed in today's global  economy, they can't simply ignore the talents
+wav/obama1/obama1_split_part_131.wav|10| half their people.  And as husbands and fathers and brothers, we have to  step up because every girl's life matters, every  daughter deserves the same chance as our father, and
+wav/obama1/obama1_split_part_132.wav|10| sons. Every woman should be able to go about her day, to walk the streets or ride the bus,  and be safe and be treated with respect and dignity. She deserves that.
+wav/obama1/obama1_split_part_133.wav|10| And one of the favorite things I've
+wav/obama1/obama1_split_part_134.wav|10| about this trip for me has been to see all these  incredible Indian women in the armed forces,  including the person who commanded the guard
+wav/obama1/obama1_split_part_135.wav|10| that greeted me when I arrived.  It's remarkable, and it's a sign of great strength  and great progress.  Our nations are strongest when we see
+wav/obama1/obama1_split_part_136.wav|10| that we are all God's children, all equal in his eyes  and worthy of his love.  Across our two great countries, we have Hindus and Muslims
+wav/obama1/obama1_split_part_137.wav|10| of Christians and Sikhs and Jews and Buddhists and  Jans and so many faiths.
+wav/obama1/obama1_split_part_138.wav|10| Remember the wisdom of Gandhiji, who said,  For me, the different religions are beautiful  flowers from the same garden, or they are branches of the same
+wav/obama1/obama1_split_part_139.wav|10| majestic tree.  Branches of the same majestic tree.  Our freedom of religion is written into our
+wav/obama1/obama1_split_part_14.wav|10| above us, we celebrated the strength of your  Constitution.  We paid tribute to India's fallen heroes.  In yesterday's parade, we saw the pride and the
+wav/obama1/obama1_split_part_140.wav|10| founding documents.  It's part of America's very first amendment.  Your Article 25 says that all people are equally entitled
+wav/obama1/obama1_split_part_141.wav|10| to freedom of conscience, and the right freely to profess, practice, and propagate religion.  In both our countries,
+wav/obama1/obama1_split_part_142.wav|10| In all countries, upholding this fundamental freedom is the responsibility of government,  but it's also the responsibility of every person.
+wav/obama1/obama1_split_part_143.wav|10| In our lives, Michelle and I have been strengthened by our Christian faith.  But there have been times where my faith has been questioned by people who
+wav/obama1/obama1_split_part_144.wav|10| don't know me.  Or they've said I adhere to a different religion, as if  that were somehow a bad thing.  Around the world, we've seen, in
+wav/obama1/obama1_split_part_145.wav|10| tolerance and violence and terror perpetrated by those  who profess to be standing up for their faith?
+wav/obama1/obama1_split_part_146.wav|10| but in fact are betraying it?  No society is immune from the darkest impulses of men.  And too often,
+wav/obama1/obama1_split_part_147.wav|10| Religion has been used to tap into those darker impulses as opposed to the light of God.
+wav/obama1/obama1_split_part_148.wav|10| Three years ago, in our state of Wisconsin, back in  the United States, a man went into a Sikh temple and,  in a terrible act of violence, killed six innocent  people, Americans and Indians.
+wav/obama1/obama1_split_part_149.wav|10| And in that moment of shared grief, our two countries reaffirmed a basic truth, as we  must again today, that every person has the right to practice their faith how they choose
+wav/obama1/obama1_split_part_15.wav|10| the diversity of this nation, including the daredevils on  their royal enfields, which was very impressive, Secret Service
+wav/obama1/obama1_split_part_150.wav|10| or to practice no faith at all and to do so free of persecution and fear and discrimination.
+wav/obama1/obama1_split_part_151.wav|10| The peace we seek in the world begins in human hearts.
+wav/obama1/obama1_split_part_152.wav|10| And it finds its glorious expression when we look beyond any differences in religion  or tribe and rejoice in the beauty of every soul.
+wav/obama1/obama1_split_part_153.wav|10| And nowhere is that more important than India.  Nowhere is it going to be more necessary for that foundational value to be upheld.
+wav/obama1/obama1_split_part_154.wav|10| India will succeed so long as it is not splintered  along the lines of religious faith, so long as it's not
+wav/obama1/obama1_split_part_155.wav|10| centered along any lines and is unified as one nation.  And it's when all Indians, whatever your faith, go to
+wav/obama1/obama1_split_part_156.wav|10| and applaud actors like Shah Rukh Khan.  And when you celebrate athletes like Milika Singh or Mary Coleman, and every Indian can
+wav/obama1/obama1_split_part_157.wav|10| pride in the courage of a humanitarian who liberates  boys and girls from forced labor and exploitation  who's here today, Kailash Sudjati.
+wav/obama1/obama1_split_part_158.wav|10| our most recent winner of the Nobel Prize for Peace.
+wav/obama1/obama1_split_part_159.wav|10| So that's what unifies us.  Do we act with compassion?
+wav/obama1/obama1_split_part_16.wav|10| does not let me ride motorcycles.  Especially not on my head.  I realize that the sight of an American President
+wav/obama1/obama1_split_part_160.wav|10| and empathy?  Are we measured by our efforts, by what Dr. King  called the content of our work?
+wav/obama1/obama1_split_part_161.wav|10| our character, rather than the color of our skin or  the manner in which we worship our God.  In both our countries,
+wav/obama1/obama1_split_part_162.wav|10| in India and in America.  Our diversity is our strength, and we have to  guard against any efforts to divide ourselves.
+wav/obama1/obama1_split_part_163.wav|10| along sectarian lines or any other lines.  And if we do that well, if America shows itself as an example of its diverse
+wav/obama1/obama1_split_part_164.wav|10| diversity, and yet the capacity to live together  and work together in common effort and common purpose.  If India, as massive as it is, would be able to
+wav/obama1/obama1_split_part_165.wav|10| So much diversity, so many differences is able to  continually affirm its democracy.  That is an example for every other country on earth.  That's what makes
+wav/obama1/obama1_split_part_166.wav|10| us world leaders. Not just the size of our economy or the number of  weapons we have, but our ability to show the way in  how we work.
+wav/obama1/obama1_split_part_167.wav|10| together, and how much respect we show each other.  And finally, our nations are strongest when we empower
+wav/obama1/obama1_split_part_168.wav|10| our young people.  Because ultimately, you're the one who has to break  down these old stereotypes and these old barriers,
+wav/obama1/obama1_split_part_17.wav|10| as your chief guest on Republic Day would once have seemed unimaginable. But my visit  reflects the possibilities of a new moment.
+wav/obama1/obama1_split_part_170.wav|10| what happens to old minds like mine.  I'm getting gray hair now.
+wav/obama1/obama1_split_part_171.wav|10| I was more youthful when I first started this office.  And that's why young people are so important in these
+wav/obama1/obama1_split_part_172.wav|10| Here in India, most people are under 35 years old.  And India is on track to become the world's most  populous country.  So young Indians like me,
+wav/obama1/obama1_split_part_173.wav|10| like you aren't just going to define the future of this nation, you're going to shape the  world.  Like, young people everywhere, you want to get an education and find a good job and make
+wav/obama1/obama1_split_part_174.wav|10| and it's not easy.  But in our two countries, it's possible.  Remember, Michelle and I don't come from wealthy  backgrounds or famous families.
+wav/obama1/obama1_split_part_175.wav|10| Our families didn't have a lot of money.  We did have parents and teachers and communities  that cared about us.  And with the help of scholarships and student loans, we were able to attend some of the best
+wav/obama1/obama1_split_part_176.wav|10| the world. Without that education, we wouldn't be here today. So whether it's in America or here in India or around  the world, we believe young people like you ought
+wav/obama1/obama1_split_part_177.wav|10| to have every chance to pursue your dreams as well.  So as India builds new community colleges, we'll  link you with our own.
+wav/obama1/obama1_split_part_178.wav|10| own, so more young people graduate with the skills and  training to succeed.  We'll increase collaborations between our  colleges and universities, and help create the next Indian
+wav/obama1/obama1_split_part_179.wav|10| Institute of Technology.  We'll encourage young entrepreneurs who want to  start a business. And we'll increase exchanges, because I want  more American students coming to India.
+wav/obama1/obama1_split_part_18.wav|10| As I've said many times, I believe that the relationship between India and the United  States can be one of the defining partnerships of the century. When I spoke to your
+wav/obama1/obama1_split_part_180.wav|10| and more Indian students coming to America. And that way we can learn from each other and we can
+wav/obama1/obama1_split_part_181.wav|10| further.  Because one other thing we have in common, Indians and Americans are some of the hardest  working people on Earth.  And I've seen that.
+wav/obama1/obama1_split_part_182.wav|10| Michelle and I have seen that in a family here in India.  I just want to tell you a quick story.  On our last visit here,
+wav/obama1/obama1_split_part_184.wav|10| We met their children and their families as well,  and some wonderful young children with bright smiles,
+wav/obama1/obama1_split_part_185.wav|10| sparks in their eyes.  And one of the children we met was a boy named Vishal.  And today, Vishal is 16 years old, and he
+wav/obama1/obama1_split_part_186.wav|10| He and his family live in South Delhi in the village of  Morbon.  This is Vishal.
+wav/obama1/obama1_split_part_187.wav|10| And his mother works hard in their modest home, and his  sister is now in university.  She wants to become a teacher.  His brother is a construction worker,  earning his daily wage.
+wav/obama1/obama1_split_part_188.wav|10| And his father works as a stone layer farther away,  but sends home what little he makes so Vishal can go to school.  And Vishal loves math, and mostly,
+wav/obama1/obama1_split_part_189.wav|10| he studies.  And when he's not studying, he likes watching Kibbutz.  And he dreams of someday
+wav/obama1/obama1_split_part_19.wav|10| After Parliament on my last visit, I laid out my vision  for how our two nations can build that partnership.  And today I want to speak directly to you, the people of India,
+wav/obama1/obama1_split_part_190.wav|10| joining the Indian Armed Forces.  And we're grateful that Vishal and his family joined us today.  We're very proud of him because he's an example of
+wav/obama1/obama1_split_part_191.wav|10| talent that's here.  And then Vishal's dreams are as important as Malia  and Sasha's dreams, our daughters.
+wav/obama1/obama1_split_part_192.wav|10| the same opportunities.  Sisters and brothers of India, we are not perfect  countries.
+wav/obama1/obama1_split_part_193.wav|10| And we've known tragedy and we've known triumph.  We're home to glittering skyscrapers, but also  terrible poverty.
+wav/obama1/obama1_split_part_194.wav|10| and new wealth, but also rising inequality.  We have many challenges in front of us.  But the reason I stand here today and am so
+wav/obama1/obama1_split_part_195.wav|10| optimistic about our future together is that despite our imperfections, our two nations  possess the keys to progress in the century ahead.
+wav/obama1/obama1_split_part_196.wav|10| We vote in free elections.  We work and we build and we innovate.  We lift up the least among us.  We reach for heights
+wav/obama1/obama1_split_part_197.wav|10| previous generations could not even imagine.  We respect human rights and human dignity, and it is
+wav/obama1/obama1_split_part_198.wav|10| recorded in our constitutions, and we keep striving to live up to those ideals put to  paper all those years ago. And we do these things because they make our lives better.
+wav/obama1/obama1_split_part_199.wav|10| better and safer and more prosperous, but we also do  them because our moral imaginations extend beyond  the limits of our own lives.  And we believe that the circumstances that we face
+wav/obama1/obama1_split_part_2.wav|10| And in that moment of shared grief, our two countries reaffirmed a basic truth, as we  must again today, that every person has the right to practice their faith how they choose,
+wav/obama1/obama1_split_part_20.wav|10| what I believe we can achieve together and how we can do it.  My commitment to a new chapter between our countries flows from the deep friendship
+wav/obama1/obama1_split_part_200.wav|10| circumstances of our birth need not dictate the arc of our lives.  We believe in the father working far from home, sending money back
+wav/obama1/obama1_split_part_201.wav|10| so his family might have a better life.  We believe in the mother who goes without so that her  children might have something more.  We believe in the laborer earning his
+wav/obama1/obama1_split_part_202.wav|10| daily wage and the student pursuing her degree.  We believe in a young boy who knows that if he just  keeps studying, if he's just given the chance, his hopes
+wav/obama1/obama1_split_part_204.wav|10| majestic tree.  And I am the first American President to come to your  country twice, but I predict I will not be the last.  Because as Americans, we believe in the promise of India.
+wav/obama1/obama1_split_part_205.wav|10| We believe in the people of India.  We are proud to be your friend.  We are proud to be your partner as you build the country of your dreams.  Jayhan.  Jayhan.
+wav/obama1/obama1_split_part_206.wav|10| Thank you.
+wav/obama1/obama1_split_part_21.wav|10| between our people.  Michelle and I have felt it ourselves.  I recognized India with the first state visit of my presidency.
+wav/obama1/obama1_split_part_22.wav|10| where we also danced to some pretty good Bhangra.  For the first time, we brought Diwali to the White House.
+wav/obama1/obama1_split_part_23.wav|10| On our last celebration here, we will be celebrating
+wav/obama1/obama1_split_part_24.wav|10| we celebrated the Festival of Lights in Mumbai.  We danced with some children.  Unfortunately, we were not able to schedule any dancing this  visit.
+wav/obama1/obama1_split_part_25.wav|10| Senorita, bode bode, deshome.  You know what I mean.  So...
+wav/obama1/obama1_split_part_26.wav|10| Everybody said, by the way, how much better
+wav/obama1/obama1_split_part_27.wav|10| a dancer Michelle was than me, which hurt my feelings a little bit.  On a more personal level, India represents an
+wav/obama1/obama1_split_part_28.wav|10| intersection of two men who've always inspired me.  When Reverend Dr. Martin Luther King, Jr. was protesting racial
+wav/obama1/obama1_split_part_29.wav|10| segregation in the United States.  He said that his guiding light was Mahatma Gandhi.
+wav/obama1/obama1_split_part_3.wav|10| or to practice no faith at all and to do so free of persecution and fear and discrimination.  Thank you so much.
+wav/obama1/obama1_split_part_30.wav|10| came to India, he said that being here in Gandhi's land  reaffirmed his conviction that in the struggle for  justice and human dignity, the most potent
+wav/obama1/obama1_split_part_31.wav|10| weapon of all is nonviolent resistance.  And those two great souls are why we can gather here today
+wav/obama1/obama1_split_part_32.wav|10| Indians and Americans equal and free.  There's another link that binds us.  More than 100 years ago,
+wav/obama1/obama1_split_part_33.wav|10| America welcomed a son of India, Swami Vivekananda.
+wav/obama1/obama1_split_part_34.wav|10| Swami Vivekananda helped bring Hinduism and yoga  to our country.  And he came to my hometown of Chicago, and there,
+wav/obama1/obama1_split_part_35.wav|10| had a great gathering of religious leaders.  He spoke of his faith and the divinity in every soul  and the purity of love, and he began his speech with a
+wav/obama1/obama1_split_part_36.wav|10| simple greeting, sisters and brothers of America.  So today, let me say sisters and brothers of India.
+wav/obama1/obama1_split_part_37.wav|10| My confidence in what our nations can achieve together is rooted
+wav/obama1/obama1_split_part_38.wav|10| in the values that we share, or we may have our  different histories and speak different languages.  But when we look at each other, we see a reflection
+wav/obama1/obama1_split_part_39.wav|10| Having thrown off colonialism, we created  constitutions that began with the three same words  � we the people.
+wav/obama1/obama1_split_part_4.wav|10| Thank you so much, Neha, for what a wonderful introduction.
+wav/obama1/obama1_split_part_40.wav|10| As societies that celebrate knowledge and innovation, we transformed ourselves into  high-tech hubs of the global economy.
+wav/obama1/obama1_split_part_41.wav|10| Together, we unlock new discoveries, from the  particles of creation to outer space.
+wav/obama1/obama1_split_part_42.wav|10| We are among the few nations to have gone to both the moon and to Mars.
+wav/obama1/obama1_split_part_43.wav|10| And here in India, this dynamism has resulted in a  stunning achievement.  You've lifted countless millions from poverty and  built one of the world's largest middle classes.
+wav/obama1/obama1_split_part_44.wav|10| And nobody embodies this progress and this sense of  possibility more than our young people.  Empowered by technology, you are connecting and collaborating
+wav/obama1/obama1_split_part_45.wav|10| like never before on Facebook and WhatsApp and Twitter.  And chances are you're talking to someone in America, your friends,
+wav/obama1/obama1_split_part_46.wav|10| or your cousins, the United States has the largest Indian diaspora in the world, including  some 3 million proud Indian Americans.
+wav/obama1/obama1_split_part_47.wav|10| And they make America stronger, and they tie us together.
+wav/obama1/obama1_split_part_48.wav|10| family and friendship that allow us to share in each  other's success.  So for all these reasons, India and the United States  are not just natural friends.
+wav/obama1/obama1_split_part_49.wav|10| partners. I believe America can be India's best partner. I believe that.
+wav/obama1/obama1_split_part_5.wav|10| Everybody, please have a seat. Nothing fills me with more hope than when I hear
+wav/obama1/obama1_split_part_50.wav|10| Of course, only Indians can decide India's role in the world.  But I'm here because I'm absolutely convinced that both our peoples will have more jobs and  opportunity.
+wav/obama1/obama1_split_part_51.wav|10| and our nations will be more secure, and the world will be safer  and a more just place when our two democracies, the world's
+wav/obama1/obama1_split_part_52.wav|10| democracy, and the world's oldest democracy stand  together.  I believe that.  So here in New Delhi,
+wav/obama1/obama1_split_part_53.wav|10| Prime Minister Modi and I have begun this work anew,  and here's what I think we can do together.  America wants to be your partner as you lift up the lives
+wav/obama1/obama1_split_part_54.wav|10| of the Indian people and provide greater opportunity.  So working together, we're giving farmers new techniques  and data from our satellites to their cell phones to increase
+wav/obama1/obama1_split_part_55.wav|10| yields and boost incomes.  We're joining you in your effort to empower every  Indian with a bank account.  And with the breakthroughs we achieved
+wav/obama1/obama1_split_part_56.wav|10| on this visit, we can finally move toward fully implementing our civil nuclear agreement,  which will mean more reliable electricity for Indians and cleaner, non-carbon
+wav/obama1/obama1_split_part_57.wav|10| energy that helps fight climate change.  And I don't  have to describe for you what more
+wav/obama1/obama1_split_part_58.wav|10| electricity means.  Students being able to study at night.  Businesses being able to stay open longer and hire  more workers.  Farmers being able to work at home.
+wav/obama1/obama1_split_part_59.wav|10| able to use mechanized tools that increase their productivity. Whole communities seeing  more prosperity. In recent years, India has lifted more people
+wav/obama1/obama1_split_part_6.wav|10| incredible young people like Neha and all the outstanding work that she's doing on behalf  of India's youth, and for representing this nation.
+wav/obama1/obama1_split_part_60.wav|10| out of poverty than any other country.  And now we have a historic opportunity, with India leading the way,  to end the injustice of extreme poverty all around the world.
+wav/obama1/obama1_split_part_63.wav|10| As we deliver more energy, more electricity, let's do it with clean, renewable energy like  solar and wind.  And let's put cleaner vehicles on the road.
+wav/obama1/obama1_split_part_64.wav|10| on the road and more filtration systems on farms and villages.  Because every child should be able to drink clean water, and every child should be able  to breathe clean air.
+wav/obama1/obama1_split_part_65.wav|10| We need our young people healthy for their futures.  And we can do it.  We have the technology to do it.  America wants to be your partner.
+wav/obama1/obama1_split_part_66.wav|10| partner in igniting the next wave of Indian growth.  As India pursues more trade and investment, we want to be  first in line.
+wav/obama1/obama1_split_part_67.wav|10| and building new infrastructure � the roads and the airports, the ports, the bullet trains  � to propel India into the future.  We're ready to help.
+wav/obama1/obama1_split_part_68.wav|10| design smart cities that serve citizens better.  And we want to develop more advanced technologies with  India as we do with our closest allies.
+wav/obama1/obama1_split_part_69.wav|10| We believe we can be even closer partners in ensuring our mutual security.  Both our nations have known the anguish of terrorism.
+wav/obama1/obama1_split_part_7.wav|10| nation's energy and its optimism and its idealism,  she makes me very, very proud.  And I'm sure I think that may be her
+wav/obama1/obama1_split_part_70.wav|10| and we stand united in the defense of our people.  And now we're deepening our defense cooperation  against new challenges.  The United States welcomes a greater role
+wav/obama1/obama1_split_part_71.wav|10| for India in the Asia Pacific, where the freedom of navigation  must be upheld and disputes must be resolved peacefully.
+wav/obama1/obama1_split_part_72.wav|10| acknowledge the world as it is.  We must never stop working for the world as it should be  a world without nuclear weapons.  That should be a goal for all of us.
+wav/obama1/obama1_split_part_74.wav|10| then our two nations must do more around the world together.  So to ensure international security and peace, multilateral institutions created in the
+wav/obama1/obama1_split_part_75.wav|10| 20th century have to be updated for the 21st.  And that's why I support a reformed United Nations  Security Council that includes India as a  permanent member.
+wav/obama1/obama1_split_part_77.wav|10| Of course, as I've said before, with power comes responsibility.  In this region, India can play a positive role in
+wav/obama1/obama1_split_part_78.wav|10| in helping countries forge a better future.  From Burma to Sri Lanka, where today there's new  hope for democracy.  With your experience in elections, you can
+wav/obama1/obama1_split_part_79.wav|10| help other countries with theirs.  With your expertise in science and medicine, India  can do more around the world to fight disease and  develop new vaccines.
+wav/obama1/obama1_split_part_8.wav|10| Is that somebody related to you?  Okay.  Because we just had a chance to meet, and she's  beaming with pride right now, sitting next to you.
+wav/obama1/obama1_split_part_80.wav|10| and help us end the moral outrage of even a single  child dying from a preventable disease.  Together, we can stand up against human
+wav/obama1/obama1_split_part_81.wav|10| trafficking, and work to end the scourge of modern-day slavery.
+wav/obama1/obama1_split_part_82.wav|10| And being global partners means confronting the urgent  global challenge of climate change.  With rising seas, melting seas, and rising
+wav/obama1/obama1_split_part_83.wav|10| melting Himalayan glaciers, more unpredictable monsoons,  cyclones getting stronger.  Few countries will be more affected by a
+wav/obama1/obama1_split_part_84.wav|10| or planet than India.  The United States recognizes our part in creating this  problem, so we're leading the global effort to combat it.
+wav/obama1/obama1_split_part_85.wav|10| I can say that America's carbon pollution is near its lowest  level in almost two decades.  I know the argument made by some that it's unfair for countries
+wav/obama1/obama1_split_part_86.wav|10| like the United States to ask developing nations and emerging economies like India to reduce  your dependence on the same fossil fuels that helped power our growth for more than a century.
+wav/obama1/obama1_split_part_87.wav|10| But here's the truth.  Even if countries like the United States curb our  emissions, if countries that are growing rapidly like India, with soaring
+wav/obama1/obama1_split_part_88.wav|10| energy needs don't also embrace cleaner fuels,  then we don't stand a chance against climate change.  So we welcome India's ambitious targets for
+wav/obama1/obama1_split_part_89.wav|10| generating more clean energy.  We'll continue to help India deal with the impacts  of climate change, because you shouldn't have to bear  that burden alone.  And as we keep working together,
+wav/obama1/obama1_split_part_90.wav|10| for a strong global agreement on climate change. It's young people like you who have to speak  up so we can protect this planet for your generation. I'll be gone when I'm out of
+wav/obama1/obama1_split_part_91.wav|10| when the worst effects happen.  It's your generation and your children that are going to be impacted.  And that's why it's urgent that we begin this work right now.
+wav/obama1/obama1_split_part_92.wav|10| Development that lifts up the lives and health of our people.  Trade and economic partnerships that reduce poverty and create opportunity.
+wav/obama1/obama1_split_part_93.wav|10| Leadership in the world that defends our security and advances human dignity and protects our  planet that's what I believe India and America can do together.
+wav/obama1/obama1_split_part_94.wav|10| So with the rest of my time, I want to discuss how we can do it.  Because in big and diverse societies like ours, progress ultimately depends on the
+wav/obama1/obama1_split_part_95.wav|10| depends on something more basic, and that is how we  see each other.  And we know from experience what makes nations strong.
+wav/obama1/obama1_split_part_97.wav|10| We are strongest when we see the inherent dignity in every human being.  Look at our countries, the incredible diversity.
+wav/obama1/obama1_split_part_98.wav|10| Even here in this hall, India is defined by countless languages and dialects and every  color and caste and creed, gender and orientations.
+wav/obama1/obama1_split_part_99.wav|10| And likewise, in America, we're black and white and Latino and Asian and Indian American  and Native American.

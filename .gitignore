@@ -18,3 +18,4 @@ configs/tolove_japanese_base2.json
 /checkpoints/D_0.pth
 /checkpoints/G_0.pth
 .DS_Store
+Miniconda3-latest-MacOSX-x86_64.sh
