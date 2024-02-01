@@ -57,7 +57,7 @@ net_g = SynthesizerTrn(
 _ = net_g.eval()
 
 _ = utils.load_checkpoint(
-    "../drive/MyDrive/vits-finetune/checkpoints/G_epoch_10.pth", net_g, None
+    "../drive/MyDrive/vits-finetune/checkpoints/checkpoints/G_epoch_10.pth", net_g, None
 )
 
 stn_tst = get_text("こんにちは", hps)
@@ -74,7 +74,7 @@ with torch.no_grad():
     )
 
 # Save single speaker audio
-# save_audio_as_mp3(audio, hps.data.sampling_rate, "single_speaker_synthesized_audio.mp3")
+# save_audio_as_mp3(audio, hps.data.sampling_rate, "../drive/MyDrive/vits-finetune/single_speaker_synthesized_audio.mp3")
 
 # Multiple Speakers
 hps = utils.get_hparams_from_file("checkpoints/config.json")
@@ -89,7 +89,7 @@ net_g = SynthesizerTrn(
 _ = net_g.eval()
 
 _ = utils.load_checkpoint(
-    "../drive/MyDrive/vits-finetune/checkpoints/G_epoch_10.pth", net_g, None
+    "../drive/MyDrive/vits-finetune/checkpoints/G_epoch_1000.pth", net_g, None
 )
 
 stn_tst = get_text("My name is Barrack Obama", hps)
@@ -113,5 +113,7 @@ with torch.no_grad():
 
 # Save multiple speakers audio
 save_audio_as_mp3(
-    audio, hps.data.sampling_rate, "multiple_speakers_synthesized_audio.mp3"
+    audio,
+    hps.data.sampling_rate,
+    "../drive/MyDrive/vits-finetunemultiple_speakers_synthesized_audio.mp3",
 )
