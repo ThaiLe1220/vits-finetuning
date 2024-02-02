@@ -46,32 +46,32 @@ def save_audio_as_mp3(audio, sample_rate, file_name):
 
 
 # Single Speaker
-hps = utils.get_hparams_from_file("checkpoints/config.json")
+# hps = utils.get_hparams_from_file("checkpoints/config.json")
 
-net_g = SynthesizerTrn(
-    len(symbols),
-    hps.data.filter_length // 2 + 1,
-    hps.train.segment_size // hps.data.hop_length,
-    **hps.model
-).cuda()
-_ = net_g.eval()
+# net_g = SynthesizerTrn(
+#     len(symbols),
+#     hps.data.filter_length // 2 + 1,
+#     hps.train.segment_size // hps.data.hop_length,
+#     **hps.model
+# ).cuda()
+# _ = net_g.eval()
 
-_ = utils.load_checkpoint(
-    "../drive/MyDrive/vits-finetune/checkpoints/checkpoints/G_epoch_10.pth", net_g, None
-)
+# _ = utils.load_checkpoint(
+#     "../drive/MyDrive/vits-finetune/checkpoints/checkpoints/G_epoch_10.pth", net_g, None
+# )
 
-stn_tst = get_text("こんにちは", hps)
-with torch.no_grad():
-    x_tst = stn_tst.cuda().unsqueeze(0)
-    x_tst_lengths = torch.LongTensor([stn_tst.size(0)]).cuda()
-    audio = (
-        net_g.infer(
-            x_tst, x_tst_lengths, noise_scale=0.667, noise_scale_w=0.8, length_scale=1
-        )[0][0, 0]
-        .data.cpu()
-        .float()
-        .numpy()
-    )
+# stn_tst = get_text("こんにちは", hps)
+# with torch.no_grad():
+#     x_tst = stn_tst.cuda().unsqueeze(0)
+#     x_tst_lengths = torch.LongTensor([stn_tst.size(0)]).cuda()
+#     audio = (
+#         net_g.infer(
+#             x_tst, x_tst_lengths, noise_scale=0.667, noise_scale_w=0.8, length_scale=1
+#         )[0][0, 0]
+#         .data.cpu()
+#         .float()
+#         .numpy()
+#     )
 
 # Save single speaker audio
 # save_audio_as_mp3(audio, hps.data.sampling_rate, "../drive/MyDrive/vits-finetune/single_speaker_synthesized_audio.mp3")

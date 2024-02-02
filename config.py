@@ -2,10 +2,10 @@
 import json
 
 BATCH_SIZE = 32  # @param {type:"number"}
-EPOCHS = 5000
+EPOCHS = 4000
 TRAINING_FILES = "filelists/miyu_train.txt.cleaned"  # @param {type:"string"}
 VALIDATION_FILES = "filelists/miyu_val.txt.cleaned"  # @param {type:"string"}
-TEXT_CLEANERS = ["english_cleaners", "japanese_cleaners"]
+TEXT_CLEANERS = ["english_cleaners"]
 
 
 config = json.load(open("configs/config.json"))
