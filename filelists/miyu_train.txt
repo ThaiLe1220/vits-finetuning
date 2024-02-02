@@ -1,5 +1,4 @@
-wav/obama1/obama1_split_part_1.wav|10| President Obama, and President Trump  Three years ago, in our state of Wisconsin,  back in the United States, a man went into a Sikh temple  and in a terrible act of violence killed six innocent  people, Americans and Indians.
-wav/obama1/obama1_split_part_10.wav|10| And I want to thank the President, the President's  wife, the President's wife, the President's wife,  the President's wife, the President's wife,
+wav/obama1/obama1_split_part_1.wav|10| Three years ago, in our state of Wisconsin,  back in the United States, a man went into a Sikh temple  and in a terrible act of violence killed six innocent  people, Americans and Indians.
 wav/obama1/obama1_split_part_100.wav|10| begins with a pledge to uphold the dignity of the individual,  and our Declaration of Independence proclaims that all  men are created equal.
 wav/obama1/obama1_split_part_101.wav|10| our countries.  Generations have worked to live up to these ideals.  And when he came to India, Martin Luther King, Jr.  was introduced to some schoolchildren,
 wav/obama1/obama1_split_part_102.wav|10| as a fellow untouchable.  My grandfather was a cook for the British Army in Kenya.
@@ -21,7 +20,6 @@ wav/obama1/obama1_split_part_116.wav|10| Now, you may have noticed I am married 
 wav/obama1/obama1_split_part_117.wav|10| talented woman.  Michelle is not afraid to speak her mind or tell me  when I'm wrong, which happens.
 wav/obama1/obama1_split_part_118.wav|10| frequently.  And we have two beautiful daughters, so I'm surrounded  by smart, strong women.  And in raising our girls, we've tried to instill in them
 wav/obama1/obama1_split_part_119.wav|10| basic values, a sense of compassion for others, and  respect for themselves, and the confidence that they can  go as far as their imaginations and abilities  will carry them.
-wav/obama1/obama1_split_part_12.wav|10| Terima kasih.
 wav/obama1/obama1_split_part_120.wav|10| And as part of Michelle's work as First Lady,  she's met with women and girls around the world,  including here in India, to let them know that America  believes in them, too.
 wav/obama1/obama1_split_part_121.wav|10| we're still working to make sure that women and girls  have all the opportunities they deserve,  and that they're treated equally.  And we have some great role models, including here today
 wav/obama1/obama1_split_part_122.wav|10| the former Speaker of our House of Representatives,  Nancy Pelosi, who was the first woman Speaker of the House  and my great partner.
@@ -194,3 +192,175 @@ wav/obama1/obama1_split_part_95.wav|10| depends on something more basic, and tha
 wav/obama1/obama1_split_part_97.wav|10| We are strongest when we see the inherent dignity in every human being.  Look at our countries, the incredible diversity.
 wav/obama1/obama1_split_part_98.wav|10| Even here in this hall, India is defined by countless languages and dialects and every  color and caste and creed, gender and orientations.
 wav/obama1/obama1_split_part_99.wav|10| And likewise, in America, we're black and white and Latino and Asian and Indian American  and Native American.
+wav/obama2/obama2_split_part_1.wav|10| Point number one.  When you hear someone longing for the good old days,
+wav/obama2/obama2_split_part_10.wav|10| those moments, those episodes.  In fact, by almost every measure, America is better and the world
+wav/obama2/obama2_split_part_100.wav|10| who mock the overwhelming consensus of the world's  scientists that human activities and the release of carbon dioxide
+wav/obama2/obama2_split_part_101.wav|10| methane and other substances are altering our climate in  profound and dangerous ways.
+wav/obama2/obama2_split_part_102.wav|10| A while back, you may have seen a United States senator trotted out a snowball during a floor  speech in the middle of winter as proof that he was
+wav/obama2/obama2_split_part_103.wav|10| that the world was not warming.  I mean, listen, climate change is not something subject
+wav/obama2/obama2_split_part_104.wav|10| to political spin.  There is evidence.  There are facts.  We can see it happening right now if we don't act, if we don't roll
+wav/obama2/obama2_split_part_105.wav|10| If we don't follow through on the progress we made in Paris, the progress we've been  making here at home, your generation will feel the brunt of this catastrophe.
+wav/obama2/obama2_split_part_106.wav|10| So it's up to you to insist upon and shape an informed debate.
+wav/obama2/obama2_split_part_107.wav|10| if Benjamin Franklin had seen that senator with a snowball,  what he would think.  Imagine if your fifth-grade science teacher had seen that.
+wav/obama2/obama2_split_part_108.wav|10| He'd get a D. And he's a senator.
+wav/obama2/obama2_split_part_109.wav|10| Look, I'm not suggesting that cold analysis and hard data are ultimately more important
+wav/obama2/obama2_split_part_11.wav|10| is better than it was 50 years ago, or 30 years ago, or even eight years ago.
+wav/obama2/obama2_split_part_110.wav|10| in life than passion or faith or love or loyalty,  I am suggesting that those highest expressions  of our humanity can only flourish
+wav/obama2/obama2_split_part_111.wav|10| When our economy functions well, and proposed budgets add up, and our environment is protected,
+wav/obama2/obama2_split_part_112.wav|10| And to accomplish those things, to make collective decisions  on behalf of a common good, we have to use our heads.  We have to agree that facts and evidence matter.
+wav/obama2/obama2_split_part_113.wav|10| And we've got to hold our leaders and ourselves  accountable to know what the heck they're talking about.
+wav/obama2/obama2_split_part_114.wav|10| Point five.  I only have two more points.  I know it's getting cold and you guys have to graduate.  Point four.  Have faith in democracy.
+wav/obama2/obama2_split_part_115.wav|10| Look, I know it's not always pretty.  Really, I know.  I've been living it.
+wav/obama2/obama2_split_part_116.wav|10| But it's how, bit by bit, generation by generation,  we have made progress in this nation.  That's how we ban child labor, that's how we clean
+wav/obama2/obama2_split_part_117.wav|10| cleaned up our air and our water.  That's how we passed programs like Social Security and  Medicare that lifted millions of seniors out of poverty.
+wav/obama2/obama2_split_part_118.wav|10| None of these changes happened overnight.  They didn't happen because some charismatic leader got  everybody suddenly to agree on everything.
+wav/obama2/obama2_split_part_119.wav|10| some massive political revolution occurred.  It actually happened over the course of years of advocacy
+wav/obama2/obama2_split_part_12.wav|10| And by the way, I'm not set aside
+wav/obama2/obama2_split_part_120.wav|10| and organizing and alliance building and deal making and
+wav/obama2/obama2_split_part_121.wav|10| changing of public opinion.  It happened because ordinary Americans who cared  participated in the political process.
+wav/obama2/obama2_split_part_122.wav|10| So...  Well, that's nice. I mean, I helped.
+wav/obama2/obama2_split_part_123.wav|10| But look, if you want to change this country for the better,  you've got to start participating.
+wav/obama2/obama2_split_part_124.wav|10| I'll give you an example on a lot of people's minds right now, and that's the growing inequality  in our economy.  Over much of the last century, we've been in a situation where we've been in a situation
+wav/obama2/obama2_split_part_125.wav|10| we've unleashed the strongest economic engine the world has ever seen. But over the past  few decades, our economy has become more and more unequal. The top 10 percent of the world's
+wav/obama2/obama2_split_part_126.wav|10| earners now take in half of all income in the U.S.  In the past, it used to be a top CEO made 20 or 30 times the
+wav/obama2/obama2_split_part_127.wav|10| income of the average worker.  Today, it's 300 times more.  And wages aren't rising fast enough for millions of hard  working families.
+wav/obama2/obama2_split_part_128.wav|10| If we want to reverse those trends,  there are a bunch of policies that would make a real difference.  We could raise the minimum wage.  We could modernize our infrastructure.
+wav/obama2/obama2_split_part_129.wav|10| infrastructure.  We could invest in early childhood education.  We could make college more affordable.  We could close tax loopholes on hedge fund managers and take
+wav/obama2/obama2_split_part_13.wav|10| 150 years ago, pre-Civil War.  There's a whole bunch of stuff there we could talk about.  Set aside life in the 50s.
+wav/obama2/obama2_split_part_130.wav|10| that money and give tax breaks to help families with  childcare or retirement.  And if we did these things, then we'd have to pay
+wav/obama2/obama2_split_part_131.wav|10| help to restore the sense that hard work is rewarded,  and we could build an economy that truly works for everybody.  Now, the reason some of these things have not happened
+wav/obama2/obama2_split_part_132.wav|10| happened, even though the majority of people approved  them, is really simple.  It's not because I wasn't proposing.
+wav/obama2/obama2_split_part_133.wav|10| them.  It wasn't because the facts and the evidence showed they  wouldn't work.  It was because of human nature.
+wav/obama2/obama2_split_part_134.wav|10| chunk of Americans, especially young people, do not vote.  In 2014, voter turnout was the lowest since World War II.
+wav/obama2/obama2_split_part_135.wav|10| fewer than one in five young people showed up to vote.  2014.  And the four who stayed home
+wav/obama2/obama2_split_part_136.wav|10| determined the course of this country just as much as the  single one who voted, because apathy has consequences.  It determines who our Congress is.
+wav/obama2/obama2_split_part_137.wav|10| It determines what policies they prioritize.  It even, for example, determines whether a really highly  qualified Supreme Court nominee receives the courtesy of a
+wav/obama2/obama2_split_part_138.wav|10| and a vote in the United States Senate.  And, yes, big money in politics is
+wav/obama2/obama2_split_part_139.wav|10| huge problem. We've got to reduce its influence. Yes, special interests and lobbyists have  disproportionate access to the corridors of power. But, contrary to the
+wav/obama2/obama2_split_part_14.wav|10| when women and people of color were systematically excluded from  big chunks of American life. Since I graduated,
+wav/obama2/obama2_split_part_140.wav|10| to what we hear sometimes from both the left as well as the right, the system isn't as  rigged as you think, and it certainly is not as hopeless as you think.
+wav/obama2/obama2_split_part_141.wav|10| Politicians care about being elected, and they  especially care about being reelected.  And if you vote and you elect a majority that  represents your views, you're going to be
+wav/obama2/obama2_split_part_142.wav|10| choose, you will get what you want.  And if you opt out or stop paying attention, you won't.  It's that simple.
+wav/obama2/obama2_split_part_143.wav|10| not that complicated.  One of the reasons that people don't vote is because  they don't see the changes they were looking for right away.
+wav/obama2/obama2_split_part_144.wav|10| Well, guess what?  None of the great strides in our history happened right away.
+wav/obama2/obama2_split_part_145.wav|10| Marshall and the NAACP decades to win Brown v. Board Education, and then another decade  after that to secure the Civil Rights Act and the Voting Rights Act.
+wav/obama2/obama2_split_part_146.wav|10| And it took more time after that for it to start working.  It took a proud daughter in New Jersey to get
+wav/obama2/obama2_split_part_147.wav|10| years of organizing marches and hunger strikes and protests and  drafting hundreds of pieces of legislation and writing letters  and giving speeches and giving speeches.
+wav/obama2/obama2_split_part_148.wav|10| and working with congressional leaders before she and other suffragists finally helped win  women the right to vote.
+wav/obama2/obama2_split_part_149.wav|10| Each stage along the way required compromise.  Sometimes you took half a loaf.
+wav/obama2/obama2_split_part_15.wav|10| in 1983, which isn't that long ago.  I'm just saying.  Since I graduated,
+wav/obama2/obama2_split_part_150.wav|10| You forged allies.  Sometimes you lost on an issue, and then you came back to fight  another day.
+wav/obama2/obama2_split_part_151.wav|10| how democracy works.  So you've got to be committed to participating,  not just if you get immediate gratification, but
+wav/obama2/obama2_split_part_152.wav|10| You've got to be a citizen full-time all the time.  And if participation means voting,  and it means compromise, and organizing,
+wav/obama2/obama2_split_part_153.wav|10| and advocacy.  It also means listening to those who don't agree with you.  I know a couple of years ago, folks,  some folks on this campus got upset that Condoleezza Rice
+wav/obama2/obama2_split_part_154.wav|10| supposed to speak at a commencement.  Now, I don't think it's a secret that I disagree with  many of the foreign policies of Dr. Rice and the previous  administration.
+wav/obama2/obama2_split_part_155.wav|10| But the notion that this community or the country  would be better served by not hearing from a former  Secretary of State or shutting out what she had to say
+wav/obama2/obama2_split_part_156.wav|10| say. I believe that's misguided. I don't think that's how democracy works best, when we're not even willing to
+wav/obama2/obama2_split_part_157.wav|10| listen to each other.  I believe that's misguided.
+wav/obama2/obama2_split_part_158.wav|10| If you disagree with somebody, bring them in and ask them tough questions.  Hold their feet to the fire. Make them defend their positions.
+wav/obama2/obama2_split_part_159.wav|10| If somebody's got a bad or offensive idea, prove it wrong.  Engage it.  Debate it.  Stand up for what you believe in.  Don't be scared to take somebody's
+wav/obama2/obama2_split_part_16.wav|10| Crime rates, teenage pregnancy, the share of  Americans living in poverty, they're all down.  The share of Americans with
+wav/obama2/obama2_split_part_160.wav|10| Don't feel like you've got to shut your ears off because you're too fragile and somebody  might offend your sensibilities.  Go at them.
+wav/obama2/obama2_split_part_161.wav|10| if they're not making any sense.  Use your logic and reason and words and by
+wav/obama2/obama2_split_part_162.wav|10| doing so, you'll strengthen your own position and you'll hone your arguments.  And maybe you'll learn something and realize you don't know everything, and you may
+wav/obama2/obama2_split_part_163.wav|10| have a new understanding not only about what your  opponents believe, but maybe what you believe.  Either way, you win.  And more importantly, our democracy wins.
+wav/obama2/obama2_split_part_164.wav|10| So, anyway, I know, all right.  That's it, Class of 2016.
+wav/obama2/obama2_split_part_165.wav|10| A few suggestions on how you can change the world.  Except maybe I've got one last suggestion.  Just one.
+wav/obama2/obama2_split_part_166.wav|10| That is, gear yourself for the long haul.  Whatever path you choose, business,  nonprofits, government, education, health care,
+wav/obama2/obama2_split_part_167.wav|10| of the arts.  Whatever it is, you're going to have some setbacks.
+wav/obama2/obama2_split_part_168.wav|10| You will deal occasionally with foolish people.  You will be frustrated.  You'll have a boss that's not great.
+wav/obama2/obama2_split_part_169.wav|10| You won't always get everything you want, at least not as fast as you want it.
+wav/obama2/obama2_split_part_17.wav|10| college educations have gone way up.  Our life expectancy has as well.  Blacks and Latinos have risen up the ranks in business
+wav/obama2/obama2_split_part_170.wav|10| So you have to stick with it.  You have to be persistent.  And success, however small, however incomplete,
+wav/obama2/obama2_split_part_171.wav|10| Success is still success.  I always tell my daughters, you know, better is good.  It may not be great, perfect,
+wav/obama2/obama2_split_part_172.wav|10| It may not be great, but it's good.  That's how progress happens in societies and in our own lives.  So don't lose hope.
+wav/obama2/obama2_split_part_173.wav|10| if sometimes you hit a roadblock.  Don't lose hope in the face of naysayers.  And certainly don't let resistance make you cynical.
+wav/obama2/obama2_split_part_174.wav|10| Cynicism is so easy, and cynics don't accomplish much.  As a friend of mine who happens to be from New Jersey,
+wav/obama2/obama2_split_part_175.wav|10| a guy named Bruce Springsteen once sang.  They spend their lives waiting for a moment
+wav/obama2/obama2_split_part_176.wav|10| that just don't come.  Don't let that be you.  Don't waste your time waiting.  And if you doubt,
+wav/obama2/obama2_split_part_177.wav|10| can make a difference.  Look at the impact some of your fellow graduates are  already making.  Look at what Matthew is doing.  Look at somebody like Yasmin Ramadan, who began
+wav/obama2/obama2_split_part_178.wav|10| organizing anti-bullying assemblies when she was 10  years old to help kids handle bias and discrimination.  And here at Rutgers, helped found the Muslim Public
+wav/obama2/obama2_split_part_179.wav|10| Council to work with administrators and police to promote inclusion.  Look at somebody like Madison Little, who grew up dealing with some health issues.
+wav/obama2/obama2_split_part_18.wav|10| and politics.  More women are in the workforce.  They're earning more money.  Although it's long past time  that we pass laws
+wav/obama2/obama2_split_part_180.wav|10| and started wondering what his care would have been like if he  lived someplace else.  And so here at Rutgers, he took charge of a student nonprofit  and worked with folks in Australia and Cambodia and  Uganda to address the problem.
+wav/obama2/obama2_split_part_181.wav|10| the AIDS epidemic.  Our generation has so much energy to adapt and impact  the world, he said.  My peers give me a lot of hope that we'll overcome
+wav/obama2/obama2_split_part_182.wav|10| overcome the obstacles we face in society.  That's you.  Is it any wonder that I am optimistic?
+wav/obama2/obama2_split_part_183.wav|10| Throughout our history, a new generation of Americans has  reached up and bent the arc of history in the direction of more
+wav/obama2/obama2_split_part_184.wav|10| opportunity and more justice.  And Class of 2016, it is your turn now to shape our nation's  destiny as well as your own.
+wav/obama2/obama2_split_part_185.wav|10| Get to work.  Make sure the next 250 years are better than the last.  Good luck. God bless you.  God bless this country you love.  Thank you.
+wav/obama2/obama2_split_part_19.wav|10| to make sure that women are getting the same pay for the same work as men.
+wav/obama2/obama2_split_part_2.wav|10| Take it with a grain of salt.  Take it with a grain of salt.
+wav/obama2/obama2_split_part_20.wav|10| Meanwhile, in the eight years since most of you started high  school, we're all so better off.  You and your fellow graduates are entering the job market
+wav/obama2/obama2_split_part_21.wav|10| better prospects than any time since 2007.  Twenty million more Americans know the financial security of  health insurance.  We're less dependent on foreign oil.
+wav/obama2/obama2_split_part_22.wav|10| We've doubled the production of clean energy.  We have cut the high school dropout rate.  We've cut the deficit by two-thirds.  Marriage equality is the law of the land.
+wav/obama2/obama2_split_part_23.wav|10| And just as America is better than
+wav/obama2/obama2_split_part_24.wav|10| the world is better than when I graduated.  Since I graduated, an iron curtain fell.  Apartheid ended.
+wav/obama2/obama2_split_part_25.wav|10| We've virtually eliminated certain diseases like polio.  We've cut extreme poverty drastically.  We've cut infant mortality.
+wav/obama2/obama2_split_part_26.wav|10| by an enormous amount.  Now, I say all these things not to make you complacent.  We've got a bunch of big problems to solve.
+wav/obama2/obama2_split_part_27.wav|10| But I say it to point out that change has been a  constant in our history.  And the reason America is better is because of
+wav/obama2/obama2_split_part_28.wav|10| Because we didn't look backwards.  We didn't fear the future.  We seized the future and made it our own.  And that's exactly why it's always
+wav/obama2/obama2_split_part_29.wav|10| There have always been young people like you that have  brought about big change.  Because you don't fear the future.
+wav/obama2/obama2_split_part_3.wav|10| We live in a great nation, and we are rightly proud of our history.  We are beneficiaries of the labor and the grit and the courage of generations who came
+wav/obama2/obama2_split_part_30.wav|10| my second point.  The world is more interconnected than ever  before, and it's becoming more connected every day.
+wav/obama2/obama2_split_part_31.wav|10| Building walls won't change that.
+wav/obama2/obama2_split_part_32.wav|10| Look, as President my first
+wav/obama2/obama2_split_part_33.wav|10| responsibility is always the security and prosperity of the United States.  And as citizens, we all rightly put our country first.
+wav/obama2/obama2_split_part_34.wav|10| But if the past two decades have taught us anything, it's that the biggest challenges  we face cannot be solved in isolation.
+wav/obama2/obama2_split_part_35.wav|10| When overseas states start falling apart,  they become breeding grounds for terrorists
+wav/obama2/obama2_split_part_36.wav|10| and ideologies of nihilism and despair that ultimately can reach our shores.  When developing countries don't have functioning health systems,
+wav/obama2/obama2_split_part_37.wav|10| Epidemics like Zika or Ebola can spread and threaten Americans, too, and the wall won't stop that.
+wav/obama2/obama2_split_part_38.wav|10| If we want to close loopholes that allow large corporations and wealthy individuals to avoid  paying their fair share of taxes, we've got to have the cooperation of other countries
+wav/obama2/obama2_split_part_39.wav|10| countries in a global financial system to help  enforce financial laws.  The point is, to help ourselves, we need to
+wav/obama2/obama2_split_part_4.wav|10| But I guess it's part of human nature, especially in  times of change and uncertainty, to want to look
+wav/obama2/obama2_split_part_40.wav|10| We've got to help others, not pull up the drawbridge and try to keep the world out.
+wav/obama2/obama2_split_part_41.wav|10| And engagement does not just mean deploying our military.  There are times where we must take military action to protect  ourselves and our allies.
+wav/obama2/obama2_split_part_42.wav|10| of, and we are grateful for the men and women who make up the  finest fighting force the world has ever known.
+wav/obama2/obama2_split_part_43.wav|10| But I worry if we think that the entire burden of our engagement with the
+wav/obama2/obama2_split_part_44.wav|10| The world is up to the 1 percent who serve in our military.  And the rest of us can just sit back and do nothing.
+wav/obama2/obama2_split_part_45.wav|10| shoulder of the entire burden. Engagement means using all the levers of our national  power and rallying the world to take on our shared challenges.
+wav/obama2/obama2_split_part_46.wav|10| You look at something like trade, for example.  We live in an age of global supply chains and cargo ships  that crisscross oceans, and online commerce
+wav/obama2/obama2_split_part_47.wav|10| They can render borders obsolete.  And a lot of folks have legitimate concerns with the  way globalization has progressed.  That's one of the changes that's been taking place.
+wav/obama2/obama2_split_part_48.wav|10| jobs shipped overseas, trade deals that sometimes put workers and businesses at a disadvantage.  But the answer isn't to stop trading with other countries.
+wav/obama2/obama2_split_part_49.wav|10| In this global economy, that's not even possible.  The answer is to do trade the right way by negotiating with  other countries so that they raise their labor standards and  their environmental standards.
+wav/obama2/obama2_split_part_5.wav|10| and longed for some imaginary past when everything worked and  the economy hummed and all politicians were wise and every
+wav/obama2/obama2_split_part_50.wav|10| standards, and we make sure they don't impose unfair  tariffs on American goods or steal American intellectual  property, that's how we make sure that international
+wav/obama2/obama2_split_part_51.wav|10| And our congressional rules are consistent with our values,  including human rights.  And ultimately, that's how we help raise wages here in  America.
+wav/obama2/obama2_split_part_52.wav|10| our workers compete on a level playing field.  Building walls won't do that.
+wav/obama2/obama2_split_part_53.wav|10| It won't boost our economy, and it won't enhance our security  either.  Isolating or disparaging Muslims, suggesting that they should be
+wav/obama2/obama2_split_part_54.wav|10| treated differently when it comes to entering this country.  That is not just a betrayal of our values.
+wav/obama2/obama2_split_part_55.wav|10| That's not just a betrayal of who we are.  It would alienate the very people who are
+wav/obama2/obama2_split_part_56.wav|10| communities at home and abroad who are our most important  partners in the fight against violent extremism.  Suggesting that we can build an endless wall along our
+wav/obama2/obama2_split_part_57.wav|10| borders and blame our challenges on immigrants,  that doesn't just run counter to our history.
+wav/obama2/obama2_split_part_58.wav|10| history as the world's melting pot, it contradicts the evidence  that our growth and our innovation and our dynamism has  always been spurred by the
+wav/obama2/obama2_split_part_59.wav|10| by our ability to attract strivers from every corner of the globe.  That's how we became America.  Why would we want to stop it now?
+wav/obama2/obama2_split_part_6.wav|10| was well-mannered and America pretty much did whatever it wanted around the world.  Guess what?  It ain't something.
+wav/obama2/obama2_split_part_60.wav|10| Applaus
+wav/obama2/obama2_split_part_61.wav|10| Can't do it.  Which brings me to my third point.
+wav/obama2/obama2_split_part_62.wav|10| Facts, evidence, reason, logic, an understanding of
+wav/obama2/obama2_split_part_63.wav|10| of science. These are good things. These are qualities  you want in people making policy. These are qualities
+wav/obama2/obama2_split_part_64.wav|10| you want to continue to cultivate in yourselves as citizens.
+wav/obama2/obama2_split_part_65.wav|10| That might seem obvious.
+wav/obama2/obama2_split_part_66.wav|10| That's why we honor Bill Moyers or Dr. Bernal.
+wav/obama2/obama2_split_part_67.wav|10| we traditionally have valued those things.  But if you were listening to today's political debate,  you might wonder
+wav/obama2/obama2_split_part_68.wav|10| where this strain of anti-intellectualism came from.
+wav/obama2/obama2_split_part_69.wav|10| So, class of 2016, let me be as clear as I can be.
+wav/obama2/obama2_split_part_7.wav|10| The good old days weren't all that good.  Yes, there have been some stretches in our history where
+wav/obama2/obama2_split_part_70.wav|10| In politics and in life, ignorance is not a virtue.
+wav/obama2/obama2_split_part_71.wav|10| It's not cool to not know what you're talking about.
+wav/obama2/obama2_split_part_72.wav|10| That's not keeping it real or telling it like it is.
+wav/obama2/obama2_split_part_73.wav|10| That's not challenging political correctness.  That's just not knowing what you're talking about.  And yet we've become confused about this.
+wav/obama2/obama2_split_part_74.wav|10| Look, our nation's founders Franklin, Madison, Hamilton, Jefferson they were  born of the Enlightenment.  They sought to escape superstition.
+wav/obama2/obama2_split_part_75.wav|10| and sectarianism and tribalism and know-nothingness.  They believed in rational thought and experimentalism
+wav/obama2/obama2_split_part_76.wav|10| and the capacity of informed citizens to master our own  fates.  That is embedded in our constitutional design.
+wav/obama2/obama2_split_part_77.wav|10| That spirit informed our inventors and our explorers,  the Edisons and the Wright brothers,  and the George Washington Carvers and the Grace Hoppers,
+wav/obama2/obama2_split_part_78.wav|10| and the Norman Borlaugs and the Steve Jobs.  That's what built this country.  And today, in every phone,
+wav/obama2/obama2_split_part_79.wav|10| in one of your pockets.  We have access to more information than at any time in human history.
+wav/obama2/obama2_split_part_8.wav|10| the economy grew much faster, or when government ran more  smoothly.  There were moments when, immediately after World War
+wav/obama2/obama2_split_part_80.wav|10| button. But ironically, the flood of information hasn't made us more discerning of the truth.  In some ways, it's just made us more confident.
+wav/obama2/obama2_split_part_81.wav|10| in our ignorance.  We assume whatever is on the web must be true.  We search for the truth.
+wav/obama2/obama2_split_part_82.wav|10| sites that just reinforce our own predispositions.  Opinions masquerade as facts.  The wildest conspiracy theories are the ones that
+wav/obama2/obama2_split_part_83.wav|10| Conspiracy theories are taken for gospel.  Now, understand, I am sure you've learned during your years of college
+wav/obama2/obama2_split_part_84.wav|10| And if not, you will learn soon that there are a whole lot of folks who are book smart  and have no common sense.  That's the truth.
+wav/obama2/obama2_split_part_85.wav|10| You'll meet them if you haven't already.  So the fact that they got a fancy degree
+wav/obama2/obama2_split_part_86.wav|10| See, you know, you got to talk to them to see whether they know  what they're talking about.  Qualities like kindness and compassion, honesty,
+wav/obama2/obama2_split_part_87.wav|10| hard work, they often matter more than technical skills or know-how.  But
