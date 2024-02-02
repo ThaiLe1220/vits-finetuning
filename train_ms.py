@@ -158,7 +158,7 @@ def run(rank, n_gpus, hps):
             checkpoint_path_d = os.path.join(hps.model_dir, f"D_epoch_{epoch}.pth")
 
             # Save checkpoint every 1000 epochs
-            if epoch % 2000 == 0:
+            if epoch % 5000 == 0:
                 utils.save_checkpoint(
                     net_g, optim_g, hps.train.learning_rate, epoch, checkpoint_path_g
                 )

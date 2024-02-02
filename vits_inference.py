@@ -92,11 +92,13 @@ _ = utils.load_checkpoint(
     "../drive/MyDrive/vits-finetune/checkpoints/G_epoch_1000.pth", net_g, None
 )
 
-stn_tst = get_text("My name is Barrack Obama", hps)
+stn_tst = get_text(
+    "We have the best economy and goverment, throughout our history", hps
+)
 with torch.no_grad():
     x_tst = stn_tst.cuda().unsqueeze(0)
     x_tst_lengths = torch.LongTensor([stn_tst.size(0)]).cuda()
-    sid = torch.LongTensor([4]).cuda()
+    sid = torch.LongTensor([10]).cuda()
     audio = (
         net_g.infer(
             x_tst,
