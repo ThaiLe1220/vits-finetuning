@@ -89,12 +89,10 @@ net_g = SynthesizerTrn(
 _ = net_g.eval()
 
 _ = utils.load_checkpoint(
-    "../drive/MyDrive/vits-finetune/checkpoints/G_epoch_10000.pth", net_g, None
+    "../drive/MyDrive/vits-finetune/checkpoints/G_epoch_20000.pth", net_g, None
 )
 
-stn_tst = get_text(
-    "We have the best economy and goverment, throughout our history", hps
-)
+stn_tst = get_text("We have the best economy and government in history", hps)
 with torch.no_grad():
     x_tst = stn_tst.cuda().unsqueeze(0)
     x_tst_lengths = torch.LongTensor([stn_tst.size(0)]).cuda()
